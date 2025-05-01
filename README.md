@@ -16,3 +16,5 @@ A simple version of the classic Simon Says memory game built using HTML, CSS, an
 3. Click the buttons in the exact order they flashed.
 4. Each time you repeat the sequence correctly, a new button is added.
 5. If you make a mistake, the game ends, and your final score is shown.
+
+- Live Link https://says-simon.netlify.app/
